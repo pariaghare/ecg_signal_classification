@@ -27,3 +27,7 @@ For a detailed explanation of the model architecture and the methodologies emplo
 ## Acknowledgments
 I would like to express my deepest gratitude to my professors, Dr. Abbas Ahmadi and Dr. Majid Amin Nayeri, for their invaluable guidance, support, and insights throughout the course of this research.
 
+
+Special thanks to the GitHub repository [`ecg-features`](https://github.com/Seb-Good/ecg-features) for providing the code for feature extraction, which played a pivotal role in the development of the machine learning model for detecting heart arrhythmia.
+
+
