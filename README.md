@@ -15,7 +15,7 @@ The work utilizes the dataset from the 2017 Physionet Challenge, aimed at classi
 For more details and to download the dataset, visit [Physionet Challenge 2017](https://www.physionet.org/content/challenge-2017/1.0.0/training2017.zip).
 
 ### Sample Waveforms
-![ECG Waveform Samples](<Image URL here>)
+![ECG Waveform Samples](./images/waveform_examples.png)
 
 ## Model Architecture
 To address the challenge, we developed a comprehensive machine learning model tailored to analyze ECG waveforms effectively. The model's architecture is designed to capture the intricate patterns associated with different types of heart rhythms.
