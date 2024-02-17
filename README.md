@@ -20,7 +20,7 @@ For more details and to download the dataset, visit [Physionet Challenge 2017](h
 ## Model Architecture
 To address the challenge, we developed a comprehensive machine learning model tailored to analyze ECG waveforms effectively. The model's architecture is designed to capture the intricate patterns associated with different types of heart rhythms.
 
-![Model Architecture](<Image URL here>)
+![Model Architecture](./images/model.png)
 
 For a detailed explanation of the model architecture and the methodologies employed, please refer to the `model_architecture.md` file in this repository.
 
