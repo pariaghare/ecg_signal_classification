@@ -18,7 +18,6 @@ To address the challenge, we developed a comprehensive machine learning model ta
 
 ![Model Architecture](./images/model.jpg)
 
-For a detailed explanation of the model architecture and the methodologies employed, please refer to the `model_architecture.md` file in this repository.
 
 ## Master Thesis Document
 For those interested in exploring the detailed research, methodologies, results, and discussions of this project, the complete master thesis document is available for download or viewing at the following link:
