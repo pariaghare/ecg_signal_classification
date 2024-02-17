@@ -6,13 +6,7 @@
 This repository contains my master's thesis work completed at Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran. The thesis focuses on developing a machine learning model to accurately detect heart arrhythmias from ECG waveforms.
 
 ## Dataset
-The work utilizes the dataset from the 2017 Physionet Challenge, aimed at classifying single-lead ECG waveforms into one of four categories: Normal Sinus Rhythm, Atrial Fibrillation, Other Rhythm, or Noisy. The dataset comprises 12,186 ECG waveforms donated by AliveCor and represents data acquired across three generations of AliveCor's single-channel ECG devices. The recordings vary in length from 9 to 61 seconds, with an average duration of 30 seconds.
-
-### Dataset Details:
-- **Source:** 2017 Physionet Challenge
-- **Contributor:** AliveCor
-- **Number of Waveforms:** 12,186
-- **Duration:** 9 to 61 seconds (average 30 seconds)
+The work utilizes the dataset from the 2017 Physionet Challenge, aimed at classifying single-lead ECG waveforms into one of four categories: Normal Sinus Rhythm, Atrial Fibrillation, Other Rhythm, or Noisy.
 
 For more details and to download the dataset, visit [Physionet Challenge 2017](https://www.physionet.org/content/challenge-2017/1.0.0/training2017.zip).
 
