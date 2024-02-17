@@ -1,5 +1,7 @@
 # Master's Thesis: Developing a Model to Detect Heart Arrhythmia Using Machine Learning Algorithms
 
+## Paria Gharedaghi
+
 ## Overview
 This repository contains my master's thesis work completed at Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran. The thesis focuses on developing a machine learning model to accurately detect heart arrhythmias from ECG waveforms.
 
